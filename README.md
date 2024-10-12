@@ -1,1 +1,3 @@
-# merito-repo
+ # merito-repo
+ Hi
+ Edytowalem ten plik
